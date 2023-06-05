@@ -1,5 +1,5 @@
 ### <b>Hey everyone!</b><br>
-I'm <i>Aleksej Shapran</i>, and I'm an  Developer.<br>
+I'm <i>Aleksej Shapran</i>, and I'm an iOS Developer.<br>
 
 ✳︎ I’m currently working on my own App.<br>
 ✳︎ I’m currently learning SwiftUI, MapKit, CloudKit.<br>
