@@ -2,7 +2,7 @@
 I'm <i>Aleksej Shapran</i>, and I'm an iOS Developer.<br>
 
 ✳︎ I’m currently working on my own App.<br>
-✳︎ I’m currently learning SwiftUI, MapKit and SwiftData.<br>
+✳︎ I'm currently learning and practicing SwiftUI.<br>
 ✳︎ Ask me about mobile app development, and I'll keep the topic of conversation.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Anyway, you can ask me about anything you want.<br>
 <br>
