@@ -7,6 +7,8 @@ I'm <i>Aleksej Shapran</i>, and I'm an iOS Developer.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Anyway, you can ask me about anything you want.<br>
 <br>
 ⌥ We can communicate in English, German, Ukrainian and some Polish. <br>
+<br>
+⌥ By the way, I'm looking for a job.<br>
 
 My Socials:<br>
 <br>
