@@ -8,7 +8,6 @@ I'm <i>Aliaksej Shapran</i>, and I'm an iOS Developer.<br>
 ⌥ Native lang: Belarussian. <br>
 ⌥ Can speak: English, German, Ukrainian and Polish. <br>
 <br>
-⌥ By the way, I'm looking for a job.<br>
 
 My Socials:<br> 
 <br>
