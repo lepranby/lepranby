@@ -1,11 +1,12 @@
 ### <b>Hey everyone!</b><br>
-I'm <i>Aleksej Shapran</i>, and I'm an iOS Developer.<br>
+I'm <i>Aliaksej Shapran</i>, and I'm an iOS Developer.<br>
 
 ✳︎ I’m currently working on my own App.<br>
 ✳︎ I'm currently learning and practicing SwiftUI.<br>
 ✳︎ Ask me about mobile app development, and I'll keep the topic of conversation. Anyway, you can ask me about anything you want.<br>
 <br>
-⌥ We can communicate in English, German, Ukrainian and some Polish. <br>
+⌥ Native lang: Belarussian. <br>
+⌥ Can speak: English, German, Ukrainian and Polish. <br>
 <br>
 ⌥ By the way, I'm looking for a job.<br>
 
