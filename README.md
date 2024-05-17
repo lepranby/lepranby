@@ -1,5 +1,5 @@
 ### <b>Hey everyone!</b><br>
-I'm <i>Aliaksej Shapran</i> | iOS Developer for the soul.<br>
+I'm <i>Aleksej Shapran</i> | iOS Developer for the soul.<br>
 
 ✳︎ I'm in love with SwiftUI.<br>
 ✳︎ I'm currently learning and practicing SwiftData, LocalAuthentication , PhotosUI.<br>
