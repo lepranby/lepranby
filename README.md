@@ -5,6 +5,8 @@ I'm <i>Aleksej Shapran</i> | iOS Developer for the soul.<br>
 ✳︎ I'm currently learning and practicing SwiftData, LocalAuthentication , PhotosUI.<br>
 ✳︎ Ask me about mobile app development, and I'll keep the topic of conversation. Anyway, you can ask me about anything you want.<br>
 <br>
+MacBook Air M2, iPhone 13 Pro, iPhone 8, Watch Series 3<br>
+<br>
 ⌥ Native language: Belarussian. <br>
 ⌥ Can speak: English, German and Ukrainian. <br>
 
