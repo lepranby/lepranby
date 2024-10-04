@@ -1,5 +1,7 @@
 ### <b>Hey everyone!</b><br>
 
+I'm:<br>
+
 ✳︎ In love with linux & macOS.<br>
 ✳︎ Trying to understand Docker.<br>
 ✳︎ PostgreSQL lover.<br>
