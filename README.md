@@ -5,9 +5,9 @@ I'm:<br>
 ✳︎ In love with linux & macOS.<br>
 ✳︎ Trying to understand Docker.<br>
 ✳︎ PostgreSQL lover.<br>
-✳︎ Now i'm practicing in SUI.<br>
+✳︎ SUI & python.<br>
 <br>
-Debian 11, MacBook M2 (Sequoia), iPhone 13 Pro<br>
+Debian 11, MacBook M2 (Tahoe), iPhone 13 Pro<br>
 <br>
 ⌥ Native language: Belarussian. <br>
 ⌥ Can speak: English, German and Ukrainian. <br>
