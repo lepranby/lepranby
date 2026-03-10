@@ -3,9 +3,8 @@
 I'm:<br>
 
 ✳︎ In love with linux & macOS.<br>
-✳︎ Docker.<br>
 ✳︎ PostgreSQL lover.<br>
-✳︎ SUI.<br>
+✳︎ SwiftUI fan.<br>
 <br>
 Debian 11, MacBook M2 (Tahoe), iPhone 13 Pro<br>
 <br>
